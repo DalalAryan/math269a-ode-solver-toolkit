@@ -1,7 +1,17 @@
-# math269a-ode-solver-toolkit
-Building, Analyzing and Stress-testing ODE Solvers.
+# MATH 269A: Building, Analyzing and Stress-testing ODE Solvers
 
-UCLA Math 269A: Graduate Advanced Numerical Analysis Final Project
+## How to reproduce the results in this project
+
+In this README, you will be guided to reproduce results in this repository regarding building, analyzing and stress-testing ODE solvers. In particular, this document should allow you to reproduce all experiments involved from Stages 1 to 8 of the final. 
+
+### Stage 1: Baseline Euler and Error Verification
+### Stage 2: Higher-Order One-Step Methods and Validation
+### Stage 3: Stability and Timestep Selection via the Model Problem
+### Stage 4: Systems: Correctness and Diagnostics
+### Stage 5: Implicit Methods and Nonlinear Solves
+### Stage 6: Stiﬀness Study with Explicit vs. Implicit
+### Stage 7: Adaptive Stepsize with Local and Global Control
+### Stage 8: Linear Multistep Methods and Zero-Stability
 
 # Project Description
 Over the entire quarter, you will build a small but serious ODE solver toolkit, validate it theoretically and empirically, and use it to study nontrivial differential equations. Your deliverable is one comprehensive final report with an appendix containing your figures, data tables, and implementation notes. The work must be conducted independently. A polished user interface is encouraged but not required; likewise, it is encouraged (not required) that your final program accept a broad class of user-defined problems and automatically perform all analyses specified below. 
